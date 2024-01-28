@@ -32,7 +32,11 @@ Access Quick-Scan Digest in your browser at [http://127.0.0.1:5000](http://127.0
 - **Responsiveness**: Quick-Scan Digest delivers fast and responsive news summaries tailored to your needs.
 ## Demo
 
-Uploading Quick Scan Digest - Google Chrome 2024-01-28 23-22-05.mp4…
+
+
+
+
+https://github.com/Manikantan-S/Quick-Scan-Digest/assets/111214511/8bd127bd-aa52-4954-8e3b-9200a3aa5a39
 
 
 
