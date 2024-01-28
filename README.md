@@ -31,7 +31,11 @@ Access Quick-Scan Digest in your browser at [http://127.0.0.1:5000](http://127.0
 - **Robustness**: Leverages the power of Facebook's Large CNN transformer for reliable news summarization.
 - **Responsiveness**: Quick-Scan Digest delivers fast and responsive news summaries tailored to your needs.
 ## Demo
-https://github.com/Manikantan-S/Quick-Scan-Digest/assets/111214511/448d3039-af0e-458b-82cd-d03672166fc4
+
+Uploading Quick Scan Digest - Google Chrome 2024-01-28 23-22-05.mp4…
+
+
+
 With Quick-Scan Digest, stay informed without spending hours reading lengthy articles. Enjoy the efficiency, robustness, and responsiveness that this project brings to your news consumption experience. Feel free to contribute, report issues, or provide feedback!
 
 
